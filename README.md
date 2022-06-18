@@ -1,2 +1,2 @@
 # Micro Cloud
-A toy microservice project to bring up most of the spring cloud features
+A toy microservice project using most of the spring cloud features
