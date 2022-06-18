@@ -9,7 +9,8 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>eureka-client</module>
+		<module>service-baghali</module>
+		<module>service-havij</module>
 		<module>eureka-server</module>
 	</modules>
 

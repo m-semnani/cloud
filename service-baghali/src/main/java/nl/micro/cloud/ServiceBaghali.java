@@ -1,4 +1,4 @@
-package nl.micro.cloud.eureka.client;
+package nl.micro.cloud;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
@@ -13,10 +13,10 @@ import java.util.List;
 
 @SpringBootApplication
 @RestController
-public class EurekaClientApp {
+public class ServiceBaghali {
 
 	public static void main(String[] args) {
-		SpringApplication.run(nl.micro.cloud.eureka.client.EurekaClientApp.class, args);
+		SpringApplication.run(ServiceBaghali.class, args);
 	}
 
 	@Autowired

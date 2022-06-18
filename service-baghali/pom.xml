@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nl.micro.cloud</groupId>
-	<artifactId>eureka-client</artifactId>
+	<artifactId>service-baghali</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eureka-client</name>
+	<name>service-baghali</name>
 
 	<properties>
 		<java.version>11</java.version>
