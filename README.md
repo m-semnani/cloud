@@ -1,7 +1,7 @@
 # Micro Cloud
 A toy microservice project using most of the spring cloud features
 
-We have an Eureka server, and 2 service at the moment.
+We have an Eureka server, and 2 services at the moment.
 
 - service-baghali
 - servcie-havij
